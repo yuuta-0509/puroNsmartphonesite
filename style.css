@@ -1,0 +1,190 @@
+html{
+    background-color:#174583;
+     scroll-behavior: smooth;
+}
+
+
+header{
+    background-color:#0D1E35;
+    height: 10%;
+}
+.top_menu{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu_text{
+    font-size: 2%;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+.menu_img{
+    width: 15%;
+    height: 8%;
+}
+
+
+.title_text{
+    color: aliceblue;
+}
+.sab_title{
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+.title{
+    position: relative;
+}
+
+.pen_white{
+    width: 50%;
+    position:absolute;
+    left: 50%;
+    top: 40%;
+    border-radius:10%
+}
+.persona_div{
+    margin-top: 50%;
+}
+
+.persona_title{
+    color: aliceblue;
+    font-size: 120%;
+}
+
+a{
+    color: aliceblue;
+}
+
+.persona_Content{
+    display:flex;
+}
+
+.persona_img{
+    width: 50%;
+}
+
+.persona_indiv{
+    padding-left: 10%;
+    color: aliceblue;
+}
+.persona_on{
+    font-size: 80%;
+}
+.persona_detail{
+    color: aliceblue;
+}
+
+.merchandise{
+    margin-top: 20%;
+}
+.merchandise_title{
+    color: aliceblue;
+    font-size: 130%;
+    text-align: center;
+}
+
+.introduction{
+    display:flex;
+}
+.introduction_img{
+    width: 40%;
+    height: 50%;
+}
+.introduction_text{
+    margin-right: 15%;
+    margin-left:5%;
+    color: aliceblue;
+}
+
+.introduction_under{
+    font-size: 70%;
+}
+
+.concept{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.concept_text{
+    text-align: center;
+    padding: 10%;
+    font-size: 80%;
+}
+.concept_div{
+    background-color: aliceblue;
+    border-radius: 10%;
+    width: 60%;
+    margin: 0 auto;
+}
+span{
+    text-decoration: underline;
+    color: blue;
+}
+.color_img1{
+    display:flex;
+    margin: 0 auto;
+}
+.color_img2{
+    display:flex;
+    margin: 0 auto;
+}
+.pen_img1{
+    width: 40%;
+    border-radius: 10%;
+}
+.pen_img{
+    width: 30%;
+    border-radius: 10%;
+}
+.color{
+    color: aliceblue;
+    margin-top: 10%;
+}
+.scene{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 10%;
+}
+.scene_img{
+    width: 80%;
+    border-radius: 20%;
+    position: absolute;
+    left: 10%;
+}
+.scene_div{
+    position: relative;
+}
+.detail_div{
+    background-color: #0D1E35;
+    margin: 0 auto;
+    width: 80%;
+    border-radius: 10%;
+}
+.detail_text{
+    color: aliceblue;
+    padding: 10%;
+    font-size: 50%;
+}
+.detail{
+    color: red;
+}
+
+.points{
+    margin-top: 60%;
+    text-align: center;
+    color: aliceblue;
+}
+.Improvement{
+    background-color: aliceblue;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 10%;
+}
+.Improvement_text{
+    text-align: center;
+    padding: 10%;
+}
